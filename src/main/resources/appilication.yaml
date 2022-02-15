@@ -1,0 +1,4 @@
+app:
+  ssm:
+    name: "/test-app/dev/db-url"
+    key: "/test-app/dev/db-password"
